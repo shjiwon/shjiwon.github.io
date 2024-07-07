@@ -41,11 +41,11 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Tags",
     "////test1",
     "//test1",
+    "//1주차 활동 기록",
     "//test",
-    "//1주차 활동 기록"
+    "//Tags"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
