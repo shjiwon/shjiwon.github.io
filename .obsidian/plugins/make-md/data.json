@@ -40,7 +40,12 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//Tags",
+    "////test1",
+    "//test1",
+    "//test",
+    "//1주차 활동 기록"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

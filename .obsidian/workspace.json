@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "1주차 활동 기록/test1.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "test/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "test/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "test/Untitled.md"
               }
             }
           }
@@ -159,10 +159,58 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e85638fcd2d3f4e4",
+  "floating": {
+    "id": "b645ef8f07995ac6",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f0d202eb834ad91c",
+        "type": "window",
+        "children": [
+          {
+            "id": "fa5644471bf7cad7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6807a30cda233928",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "test/Untitled.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 270,
+        "y": 352,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "6807a30cda233928",
   "lastOpenFiles": [
+    "test/test.md",
+    "1주차 활동 기록/Untitled.md",
+    "1주차 활동 기록/1주차 활동 기록.md",
+    "1주차 활동 기록/test1.md",
+    "test/Untitled.md",
+    "test1/Untitled.md",
+    "test1/test1.md",
+    "test1",
+    "1주차 활동 기록",
+    "1주차 활동 기록",
+    "test",
+    "Tags/Untitled.md",
     "docs/lib/styles/other-plugins.css",
-    "test.md",
     "index.md",
     "README.md",
     "이름 없는 보드.md",
@@ -172,11 +220,6 @@
     "docs/lib/styles/obsidian.css",
     "docs/lib/styles/main-styles.css",
     "docs/lib/styles/global-variable-styles.css",
-    "docs/lib/styles",
-    "docs/lib/scripts/graph-data.js",
-    "docs/lib/scripts/minisearch.js",
-    "docs/lib/scripts/pixi.js",
-    "docs/lib/scripts/tinycolor.js",
     "docs/lib/media/favicon.png",
     "docs/lib/media/3d6c1bdc4d87cde4de67.svg",
     "docs/lib/media/874d8b8e340f75575caa.svg",
