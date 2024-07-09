@@ -1,11 +1,41 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[shjiwon.github.io]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>shjiwon.github.io</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 07 Jul 2024 05:43:53 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 07 Jul 2024 05:43:53 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[1주차]]></title><description><![CDATA[ 
- <br>cnn은 합성공 신경망으로, 이미지와 같은 구조화된 데이터를 처리하도록 설계되었다. cnn은 여러 레이어로 구성되며 각 레이어는 입력 데이터에서 특징을 추출한다.<br>cnn은 합성곱 계층과 풀링 계층으로 나눌 수 있다.<br>
-그 중에서 합성곱 계층은 형상을 유지하기 위한 기법으로 이미지 1픽셀의 정보를 가진 게 아닌 3X3인 9픽셀의 정보를 가진다. 이러한 특징은 데이터를 3차원으로 입력받아서 다음 계층에 3차원 데이터로 전달시킨다. <br>cnn구조의 장점은 복잡한 비선형 모델의 구현이 가능하고 이미지와 음성인식에 특화되어 있다. 또한 3차원 데이터를 쓸 수 있다는 것이 장점이 될 수 있다.<br>cnn구조의 단점은 많은 용량이 필요하고 많은 계산량을 필요로 한다. ]]></description><link>1주차\1주차.html</link><guid isPermaLink="false">1주차/1주차.md</guid><pubDate>Sun, 07 Jul 2024 05:34:36 GMT</pubDate></item><item><title><![CDATA[1주차 활동 기록]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[shjiwon.github.io]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>shjiwon.github.io</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 09 Jul 2024 14:37:54 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 09 Jul 2024 14:37:47 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[1주차]]></title><description><![CDATA[ 
  <br>-1주차 활동 목표 : 오늘 배운 내용을 이해하고 모르는 것이 있으면 찾아보기<br>[cnn이란?]<br>
 cnn은 합성공 신경망으로, 이미지와 같은 구조화된 데이터를 처리하도록 설계되었다. cnn은 여러 레이어로 구성되며 각 레이어는 입력 데이터에서 특징을 추출한다.<br>[cnn의 종류]<br>
 cnn은 합성곱 계층과 풀링 계층으로 나눌 수 있다.<br>
 그 중에서 합성곱 계층은 형상을 유지하기 위한 기법으로 이미지 1픽셀의 정보를 가진 게 아닌 3X3인 9픽셀의 정보를 가진다. 이러한 특징은 데이터를 3차원으로 입력받아서 다음 계층에 3차원 데이터로 전달시킨다. <br>[cnn의 장단점]<br>
-cnn구조의 장점은 복잡한 비선형 모델의 구현이 가능하고 이미지와 음성인식에 특화되어 있다. 또한 3차원 데이터를 쓸 수 있다는 것이 장점이 될 수 있다.<br>cnn구조의 단점은 많은 용량이 필요하고 많은 계산량을 필요로 한다. ]]></description><link>1주차\1주차-활동-기록.html</link><guid isPermaLink="false">1주차/1주차 활동 기록.md</guid><pubDate>Sun, 07 Jul 2024 05:41:47 GMT</pubDate></item><item><title><![CDATA[Untitled 1]]></title><description><![CDATA[ 
- ]]></description><link>1주차\untitled-1.html</link><guid isPermaLink="false">1주차/Untitled 1.md</guid><pubDate>Sun, 07 Jul 2024 05:35:37 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
+cnn구조의 장점은 복잡한 비선형 모델의 구현이 가능하고 이미지와 음성인식에 특화되어 있다. 또한 3차원 데이터를 쓸 수 있다는 것이 장점이 될 수 있다.<br>cnn구조의 단점은 많은 용량이 필요하고 많은 계산량을 필요로 한다. ]]></description><link>dive\1주차.html</link><guid isPermaLink="false">dive/1주차.md</guid><pubDate>Sun, 07 Jul 2024 05:56:32 GMT</pubDate></item><item><title><![CDATA[2주차]]></title><description><![CDATA[ 
+ <br>-2주차 활동 목표 : 문채운 선배님의 레포 wisper 분석하고 모르는 용어 이해하기<br>BPL STalk Model Research <br>import<br>
+<br>intel_npu_acceleration_library
+<br>gc
+<br>torch
+<br>torchaudio
+<br>wespeaker<br>
+from~ import~
+<br>llama_cpp, Llama
+<br>pyannote.audio, Audio
+<br>pyannote.core, Segment
+<br>faster_wisper, WhisperModel
+<br>huggigface_hub, hf_hub_download
+<br>-import inter_npu_acceleration_libary<br>
+-import torch<br>
+-import torchaudio<br>
+버전 2.0.0 이상의 pytorch에서 Torch 컴파일을 사용하여 NPU에 맞게 모델을 최적화하는 외장함수를 불러오는 코드이다.<br>
+이때 NPU는 컴퓨터 가속화와 데이터 전송 기능 등이 포함되어있다.<br>
+[https://github.com/intel/intel-npu-acceleration-library]<br>-import gc<br>
+gc는 레퍼런스 카운트를 기준으로 진행한다. (레퍼런스 카운트: 모든 객체가 참조당할 때 증가시키고 참조가 없어지면 감소시키는 것, 값이 0이 되면 객체가 메모리에서 해제됨)<br>
+gc에서는 세대 구분을 한다. 객체들은 총 3단계의 세대(g0, g1, g2)로 구분된다.  <br>
+<br>0세대, 메모리에 객체 할당 횟수에 해제된 횟수를 뺀 값으로, 객체 수를 의미한다. 임계값을 초과하면 0세대 GC를 수행한다.
+<br>1세대, 0세대 GC 이후 살아남은 객체를 1세대로 이동시킨 후 카운터를 1 증가시키며, 이 1세대 카운터가 임계값을 초과하면 1세대 GC를 수행한다.
+<br>2세대 GC는 1세대 GC처럼, 1세대 GC에서 살아남은 객체들에 동일한 방식으로 GC를 수행한다.
+<br>출처: <a rel="noopener" class="external-link" href="https://twinparadox.tistory.com/623" target="_blank">https://twinparadox.tistory.com/623</a> [Twinparadox Factory:티스토리]<br>-import wespeaker<br>
+음성 식별과 음성 인식을 위한 라이브러리이다.<br>-라이브러리를 불러온 후<br>
+먼저 cuda가 사용 가능한지 확인한다. cuda는 파이썬에서 gpu프로그래밍을 시작하는 방법이다. 계산이 느린 cpu와는 다르게 gpu는 컴퓨터에서 계산을 매우 빠르게 해주기 때문에 딥러닝에서 많이 쓰인다.<br>
+기본적으로 device는 cuda로 설정되어있고, 만약에 cuda를 사용할 수 없으면 device는 cpu로 설정된다. <br>-chathistory<br>
+먼저 기본적으로 빈 list를 받는다. <br>그리고 remove_last 함수를 받아서 messages 리스트에서 마지막 메시지를 제거한다.<br>add_messages 함수를 받아서 메시지를 추가한다. 만약에 content가 문자열이면 'role'에 role를, 'content'에 content를 추가한다. 그렇지 않다면 여러 메시지를 추가한다. role과 content를 반복하면서 그 메시지를 추가하는 것이다.<br>-whisper<br>get_whisper 함수는 whisper모델의 음성을 텍스트로 변환하는 transcribe 함수를 사용한다. <br>먼저 함수를 정의해주고, model_size에서 모델의 크기를 지정한다. (ex. medium) 모델의 크기는 클수록 성능이 향상되지만 더 많은 계산을 필요로 한다.<br>
+compute_type는 계산 방식을 지정한다. (ex.int8) int8과 같은 정밀도 방식은 더 적은 메모리를 사용하지만 성능이 떨어질 수 있다. <br>이제 WhisperModel을 반환해준다.<br>
+model_size와 device (cpu/cuda), cpu_threads, compute_type등을 지정해서 WhisperModel생성 후 transcribe를 호출하여 반환한다.]]></description><link>dive\2주차.html</link><guid isPermaLink="false">dive/2주차.md</guid><pubDate>Tue, 09 Jul 2024 14:37:11 GMT</pubDate></item><item><title><![CDATA[dive]]></title><description><![CDATA[ 
+ <br>cnn은 합성공 신경망으로, 이미지와 같은 구조화된 데이터를 처리하도록 설계되었다. cnn은 여러 레이어로 구성되며 각 레이어는 입력 데이터에서 특징을 추출한다.<br>cnn은 합성곱 계층과 풀링 계층으로 나눌 수 있다.<br>
+그 중에서 합성곱 계층은 형상을 유지하기 위한 기법으로 이미지 1픽셀의 정보를 가진 게 아닌 3X3인 9픽셀의 정보를 가진다. 이러한 특징은 데이터를 3차원으로 입력받아서 다음 계층에 3차원 데이터로 전달시킨다. <br>cnn구조의 장점은 복잡한 비선형 모델의 구현이 가능하고 이미지와 음성인식에 특화되어 있다. 또한 3차원 데이터를 쓸 수 있다는 것이 장점이 될 수 있다.<br>cnn구조의 단점은 많은 용량이 필요하고 많은 계산량을 필요로 한다. ]]></description><link>dive\dive.html</link><guid isPermaLink="false">dive/dive.md</guid><pubDate>Sun, 07 Jul 2024 05:34:36 GMT</pubDate></item><item><title><![CDATA[Vault]]></title><description><![CDATA[ 
+ ]]></description><link>vault.html</link><guid isPermaLink="false">Vault.md</guid><pubDate>Tue, 09 Jul 2024 12:06:45 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
  <br>]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Wed, 26 Jun 2024 13:06:53 GMT</pubDate></item><item><title><![CDATA[Obsidian template for using github.io]]></title><description><![CDATA[ 
  <br>]]></description><link>readme.html</link><guid isPermaLink="false">README.md</guid><pubDate>Wed, 26 Jun 2024 12:40:01 GMT</pubDate></item></channel></rss>

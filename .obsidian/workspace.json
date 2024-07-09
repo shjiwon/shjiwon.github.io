@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1주차 활동 기록/test1.md",
+                "file": "dive/2주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "test/Untitled.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -175,12 +171,35 @@
                 "id": "6807a30cda233928",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "test/Untitled.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 270,
+        "y": 352,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "9019a41d9fb230b1",
+        "type": "window",
+        "children": [
+          {
+            "id": "82647298fef40b16",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "87955bd3ce73046c",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ]
@@ -196,8 +215,20 @@
       }
     ]
   },
-  "active": "6807a30cda233928",
+  "active": "87955bd3ce73046c",
   "lastOpenFiles": [
+    "dive/2주차.md",
+    "dive/1주차.md",
+    "dive/Untitled 1.md",
+    "//1주차1/1주차 활동 기록.md",
+    "//1주차1/Untitled 1.md",
+    "Vault.md",
+    "1주차1/Untitled 1.md",
+    "1주차1/1주차1.md",
+    "//1주차1/1주차1.md",
+    "1주차1/1주차 활동 기록.md",
+    "1주차1",
+    "//1주차1",
     "test/test.md",
     "1주차 활동 기록/Untitled.md",
     "1주차 활동 기록/1주차 활동 기록.md",
@@ -218,8 +249,6 @@
     "docs/lib/search-index.json",
     "docs/lib/metadata.json",
     "docs/lib/styles/obsidian.css",
-    "docs/lib/styles/main-styles.css",
-    "docs/lib/styles/global-variable-styles.css",
     "docs/lib/media/favicon.png",
     "docs/lib/media/3d6c1bdc4d87cde4de67.svg",
     "docs/lib/media/874d8b8e340f75575caa.svg",
