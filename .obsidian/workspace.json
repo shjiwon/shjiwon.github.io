@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dive/2주차.md",
+                "file": "dive/3주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "dive/3주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "dive/3주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "dive/3주차.md"
+              }
             }
           }
         ],
@@ -160,46 +164,23 @@
     "type": "floating",
     "children": [
       {
-        "id": "f0d202eb834ad91c",
+        "id": "d9cd86eebca986b7",
         "type": "window",
         "children": [
           {
-            "id": "fa5644471bf7cad7",
+            "id": "c877059c3aef6b5d",
             "type": "tabs",
             "children": [
               {
-                "id": "6807a30cda233928",
+                "id": "8d93fba4be5d6911",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 270,
-        "y": 352,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "9019a41d9fb230b1",
-        "type": "window",
-        "children": [
-          {
-            "id": "82647298fef40b16",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "87955bd3ce73046c",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "dive/3주차.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
             ]
@@ -215,8 +196,9 @@
       }
     ]
   },
-  "active": "87955bd3ce73046c",
+  "active": "8d93fba4be5d6911",
   "lastOpenFiles": [
+    "dive/3주차.md",
     "dive/2주차.md",
     "dive/1주차.md",
     "dive/Untitled 1.md",
