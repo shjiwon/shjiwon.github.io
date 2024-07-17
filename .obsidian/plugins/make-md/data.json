@@ -45,11 +45,11 @@
     "//test1",
     "//1주차 활동 기록",
     "//test",
-    "//Tags",
     "//1주차",
     "//1주차1",
     "////1주차1",
-    "//dive"
+    "//dive",
+    "//Tags"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
