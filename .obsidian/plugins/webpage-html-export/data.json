@@ -45,6 +45,11 @@
   "defaultMediaIcon": "lucide//file-image",
   "exportPath": "C:\\\\Users\\hhllc\\OneDrive\\문서\\카카오톡 받은 파일\\shjiwon.github.io\\docs",
   "filesToExport": [
-    []
+    [
+      "dive",
+      "index.md",
+      "README.md",
+      "Vault.md"
+    ]
   ]
 }
